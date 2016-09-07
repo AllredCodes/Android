@@ -1,5 +1,6 @@
 # Android
-Repository for the purpose of containing android projects. Personal projects are denoted with a (P) and school projects with a (S).
+Repository for the purpose of containing android projects. 
+Personal projects are denoted with a (P) and school projects with a (S).
 
 BlackJack       - Simple blackjack game. Play against an optimal move making computer. Score is kept, but betting not implemented.
 
